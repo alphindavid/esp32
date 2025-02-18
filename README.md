@@ -9,21 +9,22 @@ The ESP32 is a low-cost, powerful microcontroller with built-in Wi-Fi and Blueto
 ### •	Clock Speed: Up to 240 MHz<br>
 
 ### •	Memory:
-    o	RAM: 520 KB SRAM<br>
-    o	Flash Memory: Typically 4 MB or 8 MB (varies by model)<br>
+   o	RAM: 520 KB SRAM<br>
+   o	Flash Memory: Typically 4 MB or 8 MB (varies by model)<br>
 
 ### •	Connectivity:
-o	Wi-Fi: 802.11 b/g/n<br>
-o	Bluetooth: v4.2 and BLE (Bluetooth Low Energy)<br>
+  o	Wi-Fi: 802.11 b/g/n<br>
+  o	Bluetooth: v4.2 and BLE (Bluetooth Low Energy)<br>
 
-### •	Operating Voltage: <br>3.3V
+### •	Operating Voltage: <br> 
+   3.3V
 
 ### •	I/O Ports:
-o	Multiple GPIO pins (up to 36)<br>
-o	ADC (Analog-to-Digital Converter) with 12-bit resolution<br>
-o	DAC (Digital-to-Analog Converter)<br>
-o	Touch Sensors<br>
-o	UART, SPI, I2C, I2S communication interfaces<br>
+  o	Multiple GPIO pins (up to 36)<br>
+  o	ADC (Analog-to-Digital Converter) with 12-bit resolution<br>
+  o	DAC (Digital-to-Analog Converter)<br>
+  o	Touch Sensors<br>
+  o	UART, SPI, I2C, I2S communication interfaces<br>
 
 ### •	Power Management: <br>   Ultra-low power consumption with deep sleep modes
 
@@ -37,14 +38,14 @@ o	UART, SPI, I2C, I2S communication interfaces<br>
 # Getting started with Arduino IDE
 •	Download Arduino IDE <br>
 •	After installling the application <br>
-o	In your Arduino ide go to file  Preferences Additional board manager urls(paste this url)<br>
+  o	In your Arduino ide go to file  Preferences Additional board manager urls(paste this url)<br>
 
-URL = ( https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json )
-<br>
-Note: If u already have some urls there, then u can paste this url after separated by a comma( , ).
-<br>
-o	Open the Boards Manager. Go to Tools > Board > Boards Manager
-search for esp32 and install the esp32 by Espressif Systems<br>
+   URL = ( https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json )
+   <br>
+   Note: If u already have some urls there, then u can paste this url after separated by a comma( , ).
+   <br>
+  o	Open the Boards Manager. Go to Tools > Board > Boards Manager
+    search for esp32 and install the esp32 by Espressif Systems<br>
 •	Now go to tools  boards  select your boardin my case it’s the DOIT ESP32 DEVKIT V1) and select the port<br> 
 •	You can start with example code from File examples.
 
