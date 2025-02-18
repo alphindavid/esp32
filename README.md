@@ -26,7 +26,8 @@ The ESP32 is a low-cost, powerful microcontroller with built-in Wi-Fi and Blueto
   o	Touch Sensors<br>
   o	UART, SPI, I2C, I2S communication interfaces<br>
 
-### •	Power Management: <br>   Ultra-low power consumption with deep sleep modes
+### •	Power Management: <br>   
+Ultra-low power consumption with deep sleep modes
 
 ### Applications
 •	IoT Devices: Smart home automation, industrial IoT systems.<br>
