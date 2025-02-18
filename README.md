@@ -3,28 +3,28 @@ The ESP32 is a low-cost, powerful microcontroller with built-in Wi-Fi and Blueto
  
 
 # Overview and Features
-###•	Manufacturer: Espressif Systems<br>
-###•	Core: Dual-core Tensilica Xtensa LX6 (or single-core versions)<br>
-###•	Clock Speed: Up to 240 MHz<br>
+### •	Manufacturer: Espressif Systems<br>
+### •	Core: Dual-core Tensilica Xtensa LX6 (or single-core versions)<br>
+### •	Clock Speed: Up to 240 MHz<br>
 
-###•	Memory:
+### •	Memory:
 o	RAM: 520 KB SRAM<br>
 o	Flash Memory: Typically 4 MB or 8 MB (varies by model)<br>
 
-###•	Connectivity:
+### •	Connectivity:
 o	Wi-Fi: 802.11 b/g/n<br>
 o	Bluetooth: v4.2 and BLE (Bluetooth Low Energy)<br>
 
-###•	Operating Voltage: <br>3.3V
+### •	Operating Voltage: <br>3.3V
 
-###•	I/O Ports:
+### •	I/O Ports:
 o	Multiple GPIO pins (up to 36)<br>
 o	ADC (Analog-to-Digital Converter) with 12-bit resolution<br>
 o	DAC (Digital-to-Analog Converter)<br>
 o	Touch Sensors<br>
 o	UART, SPI, I2C, I2S communication interfaces<br>
 
-###•	Power Management: <br>   Ultra-low power consumption with deep sleep modes
+### •	Power Management: <br>   Ultra-low power consumption with deep sleep modes
 
 ### Applications
 •	IoT Devices: Smart home automation, industrial IoT systems.<br>
