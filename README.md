@@ -1,6 +1,7 @@
 # About ESP32
 The ESP32 is a low-cost, powerful microcontroller with built-in Wi-Fi and Bluetooth, developed by Espressif Systems. It features a dual-core processor with a clock speed of up to 240 MHz, making it suitable for a wide range of IoT and embedded applications. The ESP32 supports various communication interfaces like UART, SPI, and I2C, along with multiple GPIO pins, ADC, and DAC. It can be programmed using platforms like the Arduino IDE, ESP-IDF, and MicroPython. Its versatility, high processing power, and robust connectivity make it popular for smart devices and automation systems.
  
+![Alt text](ESP32-Pinout.webp)
 
 # Overview and Features
 ### •	Manufacturer: Espressif Systems<br>
@@ -8,8 +9,8 @@ The ESP32 is a low-cost, powerful microcontroller with built-in Wi-Fi and Blueto
 ### •	Clock Speed: Up to 240 MHz<br>
 
 ### •	Memory:
-o	RAM: 520 KB SRAM<br>
-o	Flash Memory: Typically 4 MB or 8 MB (varies by model)<br>
+    o	RAM: 520 KB SRAM<br>
+    o	Flash Memory: Typically 4 MB or 8 MB (varies by model)<br>
 
 ### •	Connectivity:
 o	Wi-Fi: 802.11 b/g/n<br>
