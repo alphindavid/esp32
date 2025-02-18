@@ -1,4 +1,4 @@
-#About ESP32
+# About ESP32
 The ESP32 is a low-cost, powerful microcontroller with built-in Wi-Fi and Bluetooth, developed by Espressif Systems. It features a dual-core processor with a clock speed of up to 240 MHz, making it suitable for a wide range of IoT and embedded applications. The ESP32 supports various communication interfaces like UART, SPI, and I2C, along with multiple GPIO pins, ADC, and DAC. It can be programmed using platforms like the Arduino IDE, ESP-IDF, and MicroPython. Its versatility, high processing power, and robust connectivity make it popular for smart devices and automation systems.
  
 
@@ -26,14 +26,14 @@ o	UART, SPI, I2C, I2S communication interfaces
 
 •	Power Management: Ultra-low power consumption with deep sleep modes
 
-###Applications
+### Applications
 •	IoT Devices: Smart home automation, industrial IoT systems.
 •	Wearables: Fitness trackers, smartwatches.
 •	Audio Applications: Internet radio, voice assistants.
 •	Embedded Systems: Data logging, automation systems, robotics.
 •	Communication Gateways: Wi-Fi/Bluetooth mesh networking.
 
-#Getting started with Arduino IDE
+# Getting started with Arduino IDE
 •	Download Arduino IDE 
 •	After installling the application 
 o	In your Arduino ide go to file  Preferences Additional board manager urls(paste this url)
@@ -49,7 +49,7 @@ search for esp32 and install the esp32 by Espressif Systems
 
 Now you are all set…..
 
-#Troubleshooting
+# Troubleshooting
 •	If your board is not recognized by the PC, then go to device manager ports
 If it is not there then u need to download usb to uart driver for your esp32.
 Go to https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads and download CP210x Windows Drivers  and install it.
